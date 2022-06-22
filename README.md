@@ -1,2 +1,3 @@
 # pages
-multipages
+multipages application
+
